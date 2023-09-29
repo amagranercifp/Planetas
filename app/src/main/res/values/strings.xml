@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Spinner</string>
+
+    <string-array name="social_networks_array">
+        <item>None</item>
+        <item>Facebook</item>
+        <item>Reddit</item>
+        <item>Twitter</item>
+        <item>Youtube</item>
+    </string-array>
+</resources>
